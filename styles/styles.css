@@ -341,3 +341,276 @@
 .feature__list__link:hover {
     color: #FF2D2D;;
 }
+
+.card__line__one {
+    display: flex;
+    margin: 0 auto;
+    align-items: stretch;
+    justify-content: center;
+    gap: 15px;
+}
+
+.card {
+    max-width: 310px;
+    width: 100%;
+    min-height: 310px;
+    background-color: cornflowerblue;
+}
+
+.card__navigation {
+    margin-top: 15px;
+}
+
+/* main four meet of team*/
+
+.content__four {
+    margin: 0 auto;
+    max-width: 1300px;
+    width: 100%;
+    min-height: 710px;
+}
+
+.parag__meet__main {
+    margin-top: 122px;
+    font-family: 'OpenSans';
+    font-size: 41.9876px;
+    line-height: 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.3834px;
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.parag__meet__content {
+    font-family: 'OpenSans';
+    font-size: 15.9953px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    text-decoration: none;
+    max-width: 478.85px;
+    width: 100%;
+    height: 73px;
+}
+
+.jumper__two {
+    margin-top: 36px;
+    max-width: 134px;
+    width: 100%;
+    min-height: 5px;
+    background-color: #FF2D2D;
+}
+
+.Meet__our__team {
+    display: flex;
+    margin-top: 60px;
+}
+
+.Meet__our__team__one {
+    max-width: 350px;
+    width: 100%;
+    min-height: 470px;
+    background-color: #FF2D2D;
+}
+
+.Meet__our__team__two {
+    margin-left: 70px;
+}
+
+.parag__mark {
+    font-family: 'OpenSans';
+    font-size: 30.127px;
+    line-height: 0px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.275265px;
+    text-transform: uppercase;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.parag__mark__content {
+    min-height: 45px;
+    font-family: 'OpenSans';
+    font-size: 15.9953px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    text-decoration: none;
+}
+
+.web__links {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.menu__web {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu__web__links {
+    display: flex;
+    align-items: stretch;
+    justify-content: center;
+}
+
+.web__link {
+    margin-top: 46px;
+    align-items: center;
+    padding: 0 10px;
+    text-decoration: none;
+    font-family: 'OpenSans';
+    font-size: 18px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.9px;
+    color: #000000;
+    font-style: italic;
+}
+
+.card__navigation__two {
+}
+
+.card__menu {
+    display: flex;
+    margin: 0 auto;
+    align-items: stretch;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 60px;
+}
+
+.card__red {
+    max-width: 216px;
+    width: 100%;
+    min-height: 216px;
+    background-color: #FF3F40;
+}
+
+.card__red__one {
+    position: relative;
+}
+
+.chip {
+    max-width: 208.75px;
+    width: 100%;
+    height: 36px;
+    font-family: 'OpenSans';
+    font-size: 18.0762px;
+    line-height: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: 0.165159px;
+    text-transform: uppercase;
+    background-color: rgb(105, 22, 22);
+    color: #E0E0E0;
+    position: absolute;
+    top: 154px;
+}
+
+/* main form number one*/
+
+.main__form {
+    max-width: 1579px;
+    width: 100%;
+    min-height: 516px;
+    background-color: #2D2D2D;
+    margin: 0 auto;
+    margin-top: 106px;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.parag__form {
+    font-family: 'OpenSans';
+    font-size: 42px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.05px;
+    color: #FFFFFF;
+    margin: 0 auto;
+    justify-content: center;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.parag__form__content {
+    font-family: 'OpenSans';
+    font-size: 15.9953px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-decoration: none;
+    margin: 0 auto;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.input__one__form {
+    max-width: 524px;
+    width: 100%;
+    min-height: 82px;
+    background-color: #FFFFFF;
+    font-family: 'OpenSans';
+    font-size: 16px;
+    line-height: 24px;
+    display: block;
+    align-items: center;
+    letter-spacing: 0.4px;
+    color: #2C2C2C;
+    padding-left: 36px;
+    border-radius: 5px;
+}
+
+.form__email {
+    display: flex;
+    max-width: 750px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.form__block {
+    margin-top: 56px;
+}
+
+.button__one__form {
+    max-width: 217px;
+    width: 100%;
+    min-height: 82px;
+    background-color: #FF2D2D;
+    font-family: 'OpenSans';
+    font-size: 17.9026px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.317046px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 18px;
+    border-radius: 5px;
+    justify-content: center;
+}
