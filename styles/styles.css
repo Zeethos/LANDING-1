@@ -818,6 +818,16 @@
     text-decoration: none;
 }
 
+.copyright {
+    font-family: 'OpenSans';
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: #B8B8B8;
+    text-decoration: none;
+}
+
 .block__network {
     margin-right: 168px;
 }
