@@ -746,6 +746,7 @@
     border-radius: 10px;
     margin-top: 66px;
     cursor: pointer;
+    border: none;
 }
 
 .parag__contact__info {
