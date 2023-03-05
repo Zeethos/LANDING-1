@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+html {
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+}
+
 .page {
     display: flex;
     margin: 0;
@@ -57,7 +63,7 @@
     align-items: center;
     padding: 0 30px;
     color: #F6F2F2;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 14px;
     font-weight: bold;
     line-height: 24px;
@@ -99,7 +105,7 @@
 }
 
 .paragraph__one {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 60px;
     line-height: 72px;
     display: flex;
@@ -112,7 +118,7 @@
 }
 
 .paragraph__two {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 15.9953px;
     line-height: 28px;
     display: flex;
@@ -129,7 +135,7 @@
     background-color: #FF2D2D;
     border: none;
     border-radius: 5px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 18.0412px;
     line-height: 34px;
     letter-spacing: 0.3195px;
@@ -182,7 +188,7 @@
 }
 
 .parag__one {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 42.1902px;
     font-weight: bold;
     line-height: 55px;
@@ -198,7 +204,7 @@
 }
 
 .parag__two {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 28px;
     max-width: 538px;
@@ -217,7 +223,7 @@
     background-color: rgba(0, 0, 0, 0.0001);
     border: 2px solid #FF0000;
     border-radius: 5px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 18.0412px;
     line-height: 34px;
     font-weight: bold;
@@ -228,7 +234,7 @@
 }
 
 .section__parag {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 24.0692px;
     line-height: 0px;
     display: flex;
@@ -240,7 +246,7 @@
 }
 
 .section__parag__two {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 24.0692px;
     line-height: 0px;
     display: flex;
@@ -262,7 +268,7 @@
 /* main free */
 
 .feature__product {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 41.9876px;
     line-height: 0px;
     display: flex;
@@ -278,7 +284,7 @@
 }
 
 .parag__feature {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 15.9953px;
     line-height: 28px;
     display: flex;
@@ -324,7 +330,7 @@
 }
 
 .feature__list__link {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 22px;
     line-height: 24px;
     display: flex;
@@ -372,7 +378,7 @@
 
 .parag__meet__main {
     margin-top: 122px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 41.9876px;
     line-height: 0px;
     display: flex;
@@ -386,7 +392,7 @@
 }
 
 .parag__meet__content {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 15.9953px;
     line-height: 28px;
     display: flex;
@@ -423,7 +429,7 @@
 }
 
 .parag__mark {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 30.127px;
     line-height: 0px;
     display: flex;
@@ -437,7 +443,7 @@
 
 .parag__mark__content {
     min-height: 45px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 15.9953px;
     line-height: 28px;
     display: flex;
@@ -471,7 +477,7 @@
     align-items: center;
     padding: 0 10px;
     text-decoration: none;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 18px;
     line-height: 24px;
     display: flex;
@@ -505,7 +511,7 @@
     max-width: 208.75px;
     width: 100%;
     height: 36px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 18.0762px;
     line-height: 0px;
     display: flex;
@@ -537,7 +543,7 @@
 }
 
 .parag__form {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 42px;
     line-height: 24px;
     display: flex;
@@ -552,7 +558,7 @@
 }
 
 .parag__form__content {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 15.9953px;
     line-height: 28px;
     display: flex;
@@ -570,7 +576,7 @@
     width: 100%;
     min-height: 82px;
     background-color: #FFFFFF;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 24px;
     display: block;
@@ -597,7 +603,7 @@
     width: 100%;
     min-height: 82px;
     background-color: #FF2D2D;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 17.9026px;
     line-height: 34px;
     display: flex;
@@ -623,7 +629,7 @@
 }
 
 .parag__get {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 41.9876px;
     line-height: 0px;
     display: flex;
@@ -638,7 +644,7 @@
 }
 
 .parag__get__content {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 15.9953px;
     line-height: 28px;
     display: flex;
@@ -680,7 +686,7 @@
     max-width: 342px;
     width: 100%;
     min-height: 71px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 24px;
     align-items: center;
@@ -696,7 +702,7 @@
     max-width: 342px;
     width: 100%;
     min-height: 71px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 24px;
     align-items: center;
@@ -719,7 +725,7 @@
     margin-top: 43px;
     padding-top: 32px;
     padding-left: 50px;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 15.9134px;
     line-height: 28px;
     display: flex;
@@ -731,7 +737,7 @@
     width: 754px;
     height: 75px;
     background-color: #FF3B3B;
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 17.9026px;
     line-height: 34px;
     display: flex;
@@ -750,7 +756,7 @@
 }
 
 .parag__contact__info {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 17.9026px;
     line-height: 34px;
     display: flex;
@@ -765,7 +771,7 @@
 }
 
 .parag__contact__two {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 28px;
     display: flex;
@@ -776,7 +782,7 @@
 }
 
 .parag__contact__free {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 28px;
     display: flex;
@@ -787,7 +793,7 @@
 }
 
 .parag__contact__four {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 28px;
     display: flex;
@@ -809,7 +815,7 @@
 }
 
 .parag__end {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 26px;
     display: flex;
@@ -819,7 +825,7 @@
 }
 
 .copyright {
-    font-family: 'OpenSans';
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 26px;
     display: flex;
